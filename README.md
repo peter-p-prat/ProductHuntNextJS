@@ -1,31 +1,31 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+[Here](http://producthuntclonebypeter.netlify.app//) you can check this ProductHunt Clon developed by me. 
 
-## Getting Started
 
-First, run the development server:
+## Frontend 
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+- Next.js
+- Styled-components (emotion)
+- NormalizeCSS.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Backend 
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+- Firebase(Hosting, Database & Auth)
 
-## Learn More
+## Deployment
 
-To learn more about Next.js, take a look at the following resources:
+- Netlify 
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
+### What was the objective that motivated me to develop this project
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/import?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- Get started with Next.js
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
-"# ProductHuntNextJS" 
+- Learn about Next.js dinamic Routing:
+  When the user clicks to open an article, nextjs dynamically generates a clean path to a new page and gets product information + comments + votes from database.
+
+-Restricting the votes that a user can cast. By saving the voter's id of each vote a product receives, he will no longer be able to vote again.
+
+### What would I improve about this project
+
+- It is definitely pending to improve the adaptability of the forms to mobile screens
