@@ -1,10 +1,10 @@
-###Bienvenido
+### Bienvenido
 
-##Este es un clon del blog ProductHunt que desarrollé para adquirir experiencia en la implementacion de sitios web con Next.js.
+## Este es un clon del blog ProductHunt que desarrollé para adquirir experiencia en la implementacion de sitios web con Next.js.
 
 
 
-[Aquí](http://producthuntclonebypeter.netlify.app//) podés visitar el Clon de ProductHunt, visitar y buscar publicaciones, registrarte y hacer tus propias publicaciones asi como comentar y votar en otras. Sentite libre de probar todas las funcionalidades.
+[Aquí](http://producthuntclonebypeter.netlify.app//) podés visitarlo visitar y buscar publicaciones, registrarte y hacer tus propias publicaciones asi como comentar y votar en otras. Sentite libre de probar todas las funcionalidades.
 
 
 ## Frontend 
